@@ -1,6 +1,6 @@
 # Lab 1 - CI/CD with Azure DevOps
 
-## Step 1: Create Resource Group
+###### Step 1: Create Resource Group
 
 - Login to azure portal
 - Go to create resource
@@ -9,7 +9,7 @@
 - Assign the details of Subscription, Resource Group and Region
 - Review, and click on "Create"
 
-## Step 2: Create a new DevOps Project 
+###### Step 2: Create a new DevOps Project 
 
 - Go to DevOps starter
 -  Click on "+ Create"
@@ -21,4 +21,4 @@
 -  Setup project name and details
 -  Click on "Review and Create"
 
-## Step 3:
+###### Step 3:
