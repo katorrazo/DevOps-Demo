@@ -38,4 +38,12 @@ jobs:
 ```
 
 - Open a Bash Terminal
-- 
+- Commit and Push the YAML file to your repo:
+```
+git add deploy/azure-pipelines.yml
+git commit -m "Add initial pipeline definition"
+git push
+```
+
+## Step 5: Set Up Azure Pipelines
+-
