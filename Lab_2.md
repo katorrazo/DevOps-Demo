@@ -2,7 +2,7 @@
 
 ## Step 1: Sign in to Azure using Azure CLI
 - In VS Code run:
-- ```
-- az login
-- ```
+```
+az login
+```
 - 
