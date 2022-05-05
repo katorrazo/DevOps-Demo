@@ -11,7 +11,7 @@ az login
 
 - In VS Code, run the following Azure CLI command:
 ```
-az group create --name ToyWebsite --location westus
+az group create --name DevOps-Lab --location eastus
 ```
 
 ## Step 3: Create a Service Connection in Azure Pipelines
