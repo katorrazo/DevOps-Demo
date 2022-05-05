@@ -16,4 +16,4 @@ az group create --name ToyWebsite --location westus
 
 ## Step 3: Create a Service Connection in Azure Pipelines
 
-- In Azure DevOps select the ![gear icon](https://images.app.goo.gl/VxNVzXs7PBe3SpEb6)
+- In Azure DevOps select the ![gear icon](https://www.vectorstock.com/royalty-free-vector/gear-icon-settings-or-options-vector-26936901)
