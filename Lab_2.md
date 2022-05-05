@@ -1,4 +1,4 @@
-# Create a Service Conncetion
+# Create a Service Connection
 
 ## Step 1: Sign in to Azure
 
