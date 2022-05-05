@@ -2,7 +2,7 @@
 
 ###### Step 1: Create a new DevOps Project
 
-- Login to [Azure DevOps] (https://dev.azure.com/)
+- Login to [Azure DevOps](https://dev.azure.com/)
 - Go to create resource
 - Select resource groups
 - Click on "+ Add"
