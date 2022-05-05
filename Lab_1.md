@@ -8,9 +8,8 @@
 
 ## Step 2: Clone the Repository
 
-- Go to Repos
+- Go to Repos Tab
 - Select to clone in VS Code
-###### if a dialog box appears, prompting you to allow an extension to open the repo URI, select Open
 - Create a folder in your local machine to use for this repository
 - VS Code prompts you to open the repository, select Open
 
@@ -46,4 +45,11 @@ git push
 ```
 
 ## Step 5: Set Up Azure Pipelines
--
+- Go to Azure DevOps
+- Select Pipelines Tab
+- Click on Create Pipeline
+- On the Connect Tab, select Azure Repos Git
+- Choose your repository
+- On the Configure your Pipeline pane, select Existing Azure Pipelines YAML file
+- Leave the branch as main and set the path as: /deploy/azure-pipelines.yml
+- Review your pipeline YAML and click on Run
